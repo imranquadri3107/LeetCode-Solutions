@@ -1,0 +1,12 @@
+	
+Junior Full Stack Developer at Chatham Financial was asked...	Mar 11, 2018
+*Find whether two respective strings are anagram or not in two array
+*Implement simple GUI with three inner square boxes and set alert on each of them
+*Paranthesis Validation
+*Removal of duplicate elements from an array
+*SQL query for selecting particular records.  
+*Theory questions:Dependency injection. Unit testing.  What would you do if you won the lottery? 
+*Reverse the string   
+
+
+ 
